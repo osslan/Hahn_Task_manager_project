@@ -1,0 +1,14 @@
+### GET request to example server
+POST http://localhost:8080/api/tasks
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiVVNFUiIsInN1YiI6IkF6ZXJ0eTEyMzQiLCJpYXQiOjE3NjU4MzIxNTcsImV4cCI6MTc2NTgzMzU5N30.NVKfNikKqFsgG7tirwAGQmxhPkM-WeBtFnHU61GRxw0
+
+{
+  "title": "Build auth feature",
+  "description": "Build auth feature",
+  "deadline": "2025-12-22",
+  "completed": false,
+  "projectId": 1
+}
+
+###

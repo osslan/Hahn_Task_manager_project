@@ -1,0 +1,12 @@
+### GET request to example server
+POST http://localhost:8080/api/projects
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiVVNFUiIsInN1YiI6IkF6ZXJ0eTEyMzQiLCJpYXQiOjE3NjU4MDc4MjgsImV4cCI6MTc2NTgwOTI2OH0.F22hUoI6WXJ58Nsi4JlcOJkjfH5aqXZRl8UTlqlTGa0
+Content-Type: application/json
+
+{
+  "title": "New Project",
+  "description": "Sample project",
+  "userId": 3
+}
+
+###

@@ -1,0 +1,5 @@
+### GET request to example server
+GET http://localhost:8080/api/projects/user/Azerty1234?page=0&size=5
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiVVNFUiIsInN1YiI6IkF6ZXJ0eTEyMzQiLCJpYXQiOjE3NjU4MzUwNTksImV4cCI6MTc2NTgzNjQ5OX0.blWY-v2W-Eu6QdmlWUqxVVtSXHj1kNu_ZIqGsckoDLo
+
+###

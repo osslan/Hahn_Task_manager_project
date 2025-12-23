@@ -1,0 +1,5 @@
+### GET request to example server
+GET http://localhost:8080/api/analytics/progression/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoiVVNFUiIsInN1YiI6IkF6ZXJ0eTEyMzQiLCJpYXQiOjE3NjU4MzUzOTcsImV4cCI6MTc2NTgzNjgzN30.d0IhGifq67Uw44Fq1Tj_Lfie29VSFFit5VR4JpHhLo4
+
+###
